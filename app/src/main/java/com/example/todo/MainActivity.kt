@@ -71,5 +71,6 @@ class MainActivity : AppCompatActivity() {
 
         val recyclerView = findViewById<RecyclerView>(R.id.notes_recycler_view)
         recyclerView.adapter = noteAdapter
+        val
     }
 }
